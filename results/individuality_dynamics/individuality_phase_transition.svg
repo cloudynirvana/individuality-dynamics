@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="710" viewBox="0 0 1140 710">
+<rect width="1140" height="710" fill="#f3efe4" />
+<text x="40" y="38" font-size="24" font-family="Georgia" fill="#1d252c">Individuality Dynamics: Causal Closure as Coupling-Ratio Transition</text>
+<text x="40" y="60" font-size="13" font-family="Consolas" fill="#52616b">Multi-seed Kuramoto scaffold with LZ, MI, metastability, and PCI-like perturbational response metrics.</text>
+<rect x="40" y="76" width="500.0" height="250.0" fill="#fbfaf6" stroke="#1d252c" stroke-width="1" />
+<text x="54" y="100" font-size="17" font-family="Georgia" fill="#1d252c">Baseline Individuation</text>
+<text x="52" y="316.0" font-size="11" font-family="Consolas" fill="#52616b">lambda: 0.10 to 10.00</text>
+<polyline points="40.00,326.00 40.00,76.00" fill="none" stroke="#111111" stroke-width="1.4" />
+<polyline points="40.00,93.24 58.52,125.43 77.04,119.47 95.56,181.52 114.07,176.63 132.59,142.95 151.11,183.61 169.63,156.46 188.15,171.67 206.67,186.13 225.19,155.90 243.70,165.40 262.22,187.28 280.74,221.82 299.26,211.25 317.78,239.89 336.30,240.10 354.81,254.28 373.33,263.71 391.85,267.38 410.37,277.38 428.89,280.12 447.41,289.76 465.93,289.69 484.44,293.14 502.96,303.29 521.48,304.94 540.00,308.76" fill="none" stroke="#0f766e" stroke-width="2.0" />
+<line x1="358" y1="120" x2="382" y2="120" stroke="#0f766e" stroke-width="3" />
+<text x="390" y="124" font-size="12" font-family="Consolas" fill="#1d252c">Internal LZ</text>
+<polyline points="40.00,174.97 58.52,166.29 77.04,176.75 95.56,138.27 114.07,153.24 132.59,173.72 151.11,143.89 169.63,145.06 188.15,168.65 206.67,149.73 225.19,163.16 243.70,171.95 262.22,156.05 280.74,147.15 299.26,170.49 317.78,129.98 336.30,156.53 354.81,151.35 373.33,160.46 391.85,137.20 410.37,151.69 428.89,146.71 447.41,147.31 465.93,152.94 484.44,123.05 502.96,149.49 521.48,155.08 540.00,148.89" fill="none" stroke="#b45309" stroke-width="2.0" />
+<line x1="358" y1="138" x2="382" y2="138" stroke="#b45309" stroke-width="3" />
+<text x="390" y="142" font-size="12" font-family="Consolas" fill="#1d252c">Internal-external MI</text>
+<rect x="600" y="76" width="500.0" height="250.0" fill="#fbfaf6" stroke="#1d252c" stroke-width="1" />
+<text x="614" y="100" font-size="17" font-family="Georgia" fill="#1d252c">PCI-like Perturbational Response</text>
+<text x="612" y="316.0" font-size="11" font-family="Consolas" fill="#52616b">lambda: 0.10 to 10.00</text>
+<polyline points="600.00,143.98 618.52,142.94 637.04,147.94 655.56,145.54 674.07,155.45 692.59,148.04 711.11,147.42 729.63,146.79 748.15,131.26 766.67,146.38 785.19,146.79 803.70,138.04 822.22,151.28 840.74,146.69 859.26,147.21 877.78,153.26 896.30,148.88 914.81,158.89 933.33,177.34 951.85,203.09 970.37,229.15 988.89,227.69 1007.41,232.80 1025.93,237.49 1044.44,239.79 1062.96,242.39 1081.48,241.45 1100.00,244.37" fill="none" stroke="#2563eb" stroke-width="2.0" />
+<line x1="918" y1="120" x2="942" y2="120" stroke="#2563eb" stroke-width="3" />
+<text x="950" y="124" font-size="12" font-family="Consolas" fill="#1d252c">Perturb complexity</text>
+<polyline points="600.00,211.00 618.52,209.57 637.04,209.57 655.56,208.14 674.07,209.57 692.59,193.86 711.11,183.86 729.63,136.71 748.15,113.86 766.67,103.86 785.19,102.43 803.70,103.86 822.22,93.86 840.74,98.14 859.26,105.29 877.78,109.57 896.30,122.43 914.81,148.14 933.33,205.29 951.85,233.86 970.37,305.29 988.89,308.14 1007.41,308.14 1025.93,308.14 1044.44,308.14 1062.96,308.14 1081.48,306.71 1100.00,308.14" fill="none" stroke="#15803d" stroke-width="2.0" />
+<line x1="918" y1="138" x2="942" y2="138" stroke="#15803d" stroke-width="3" />
+<text x="950" y="142" font-size="12" font-family="Consolas" fill="#1d252c">Response spread</text>
+<rect x="40" y="386" width="500.0" height="250.0" fill="#fbfaf6" stroke="#1d252c" stroke-width="1" />
+<text x="54" y="410" font-size="17" font-family="Georgia" fill="#1d252c">Cancer Analogue: Rogue Closure</text>
+<text x="52" y="626.0" font-size="11" font-family="Consolas" fill="#52616b">lambda: 0.10 to 10.00</text>
+<polyline points="40.00,636.00 40.00,386.00" fill="none" stroke="#111111" stroke-width="1.4" />
+<polyline points="40.00,530.03 58.52,542.96 77.04,537.21 95.56,542.11 114.07,540.41 132.59,545.22 151.11,516.32 169.63,508.37 188.15,526.15 206.67,532.75 225.19,533.51 243.70,532.26 262.22,545.37 280.74,565.62 299.26,559.42 317.78,553.87 336.30,549.43 354.81,563.86 373.33,562.02 391.85,570.70 410.37,570.64 428.89,575.25 447.41,575.32 465.93,583.13 484.44,593.50 502.96,596.69 521.48,600.61 540.00,618.76" fill="none" stroke="#dc2626" stroke-width="2.0" />
+<line x1="358" y1="430" x2="382" y2="430" stroke="#dc2626" stroke-width="3" />
+<text x="390" y="434" font-size="12" font-family="Consolas" fill="#1d252c">Rogue closure</text>
+<polyline points="40.00,483.68 58.52,453.21 77.04,468.64 95.56,463.16 114.07,464.18 132.59,487.10 151.11,504.37 169.63,503.94 188.15,494.81 206.67,480.80 225.19,480.61 243.70,471.54 262.22,483.25 280.74,458.45 299.26,446.17 317.78,474.59 336.30,471.06 354.81,428.97 373.33,441.92 391.85,421.14 410.37,439.73 428.89,442.91 447.41,436.25 465.93,437.24 484.44,403.24 502.96,409.25 521.48,437.17 540.00,415.14" fill="none" stroke="#7c3aed" stroke-width="2.0" />
+<line x1="358" y1="448" x2="382" y2="448" stroke="#7c3aed" stroke-width="3" />
+<text x="390" y="452" font-size="12" font-family="Consolas" fill="#1d252c">Rogue-host MI</text>
+<rect x="600" y="386" width="500.0" height="250.0" fill="#fbfaf6" stroke="#1d252c" stroke-width="1" />
+<text x="614" y="410" font-size="17" font-family="Georgia" fill="#1d252c">Operational Closure Scores</text>
+<text x="612" y="626.0" font-size="11" font-family="Consolas" fill="#52616b">lambda: 0.10 to 10.00</text>
+<polyline points="600.00,433.94 618.52,452.48 637.04,445.83 655.56,497.96 674.07,492.71 692.59,459.61 711.11,491.96 729.63,467.50 748.15,456.25 766.67,476.64 785.19,455.58 803.70,453.40 822.22,473.28 840.74,497.40 859.26,482.37 877.78,518.29 896.30,507.09 914.81,525.31 933.33,543.06 951.85,568.79 970.37,589.40 988.89,592.86 1007.41,599.12 1025.93,598.37 1044.44,613.46 1062.96,608.12 1081.48,605.99 1100.00,611.71" fill="none" stroke="#0f172a" stroke-width="2.0" />
+<line x1="918" y1="430" x2="942" y2="430" stroke="#0f172a" stroke-width="3" />
+<text x="950" y="434" font-size="12" font-family="Consolas" fill="#1d252c">Host closure</text>
+<polyline points="600.00,438.86 618.52,456.96 637.04,448.91 655.56,455.77 674.07,453.39 692.59,460.13 711.11,419.68 729.63,408.54 748.15,433.43 766.67,442.67 785.19,443.73 803.70,441.99 822.22,460.33 840.74,488.68 859.26,480.00 877.78,472.23 896.30,466.01 914.81,486.22 933.33,483.63 951.85,495.78 970.37,495.71 988.89,502.16 1007.41,502.26 1025.93,513.19 1044.44,527.70 1062.96,532.16 1081.48,537.66 1100.00,563.05" fill="none" stroke="#be123c" stroke-width="2.0" />
+<line x1="918" y1="448" x2="942" y2="448" stroke="#be123c" stroke-width="3" />
+<text x="950" y="452" font-size="12" font-family="Consolas" fill="#1d252c">Rogue closure</text>
+</svg>
