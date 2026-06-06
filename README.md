@@ -10,6 +10,10 @@ while preserving nontrivial perturbational complexity.
 
 The model is a research scaffold, not a proof of consciousness, resurrection, clinical age reversal, or mind uploading. Its value is that it turns a large philosophical claim into measurable curves.
 
+Citation and attribution: this repository is MIT-licensed for open review and collaboration. If you use the code, theory, figures, or documentation, please cite the repository and credit Kelechi Ogbonna / cloudynirvana.
+
+Expert review invited: neuroscience, dynamical systems, complexity science, consciousness studies, and research-software reviewers are encouraged to audit assumptions, reproduce the lambda-sweep results, and challenge the interpretation before any scientific claims are widened.
+
 ## What It Builds
 
 - A coupled Kuramoto oscillator system with internal and environmental nodes.
