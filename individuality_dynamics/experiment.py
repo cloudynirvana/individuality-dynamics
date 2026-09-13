@@ -6,8 +6,10 @@ The experiment formalizes a narrow, testable claim:
     where internal dynamics become more self-maintaining than externally
     entrained while preserving nontrivial perturbational complexity.
 
-This is a mathematical research scaffold. It does not claim to prove
-consciousness, resurrection, clinical age reversal, or mind uploading.
+This is a computational / synthetic research scaffold. It does not claim
+to prove consciousness, resurrection, clinical age reversal, or mind
+uploading. It contains no patients, clinical trials, diagnostics, or
+medical advice.
 """
 
 from __future__ import annotations
@@ -19,6 +21,16 @@ import math
 from typing import Iterable, Sequence
 
 import numpy as np
+
+INTERPRETATION_GUARDRAIL = (
+    "This is a computational / synthetic hypothesis generator, not proof of "
+    "consciousness, clinical age reversal, resurrection, or mind uploading. "
+    "It contains no patients, clinical trials, diagnostics, or medical advice."
+)
+INTERPRETATION_SCOPE = (
+    "Coupled-oscillator causal-closure scaffold; cancer and aging language is "
+    "synthetic dynamical analogy only, not an oncology or clinical toolkit."
+)
 
 
 @dataclass(frozen=True)
@@ -165,6 +177,7 @@ def build_coupling_matrix(
     matrix[env_slice, :n_internal] = external_strength * cross_noise.T
 
     if include_rogue_cluster:
+        # Synthetic rogue-closure analogue (not a tumor or clinical model).
         rogue = slice(0, config.n_rogue)
         host = slice(config.n_rogue, n_internal)
         matrix[rogue, rogue] *= config.rogue_multiplier
@@ -427,7 +440,8 @@ def run_experiment(config: ExperimentConfig) -> dict[str, object]:
         "schema": "individuality-dynamics/v1",
         "interpretation": {
             "central_claim": "Operational individuality is modeled as rising causal closure: internal complexity and perturbational response richness exceed external entrainment.",
-            "guardrail": "This is a computational hypothesis generator, not proof of consciousness, clinical age reversal, resurrection, or mind uploading.",
+            "guardrail": INTERPRETATION_GUARDRAIL,
+            "scope": INTERPRETATION_SCOPE,
             "lambda_definition": "lambda = W_internal / W_external",
             "transition_rule": "lambda* is estimated at the steepest positive gradient of the mean closure score over log(lambda).",
         },
@@ -548,7 +562,7 @@ def write_svg_report(results: dict[str, object], output_dir: Path) -> Path:
             76,
         ),
         _panel(
-            "Cancer Analogue: Rogue Closure",
+            "Synthetic Cancer Analogue: Rogue Closure",
             lambdas,
             [
                 ("Rogue closure", rogue_closure, "#dc2626"),

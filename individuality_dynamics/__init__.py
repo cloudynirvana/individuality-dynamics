@@ -1,6 +1,8 @@
 """Individuality dynamics research package."""
 
 from .experiment import (
+    INTERPRETATION_GUARDRAIL,
+    INTERPRETATION_SCOPE,
     ExperimentConfig,
     LambdaSummary,
     SeedMetrics,
@@ -9,6 +11,8 @@ from .experiment import (
 )
 
 __all__ = [
+    "INTERPRETATION_GUARDRAIL",
+    "INTERPRETATION_SCOPE",
     "ExperimentConfig",
     "LambdaSummary",
     "SeedMetrics",

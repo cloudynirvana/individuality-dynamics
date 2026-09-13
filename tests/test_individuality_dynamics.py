@@ -5,6 +5,8 @@ import unittest
 import numpy as np
 
 from individuality_dynamics.experiment import (
+    INTERPRETATION_GUARDRAIL,
+    INTERPRETATION_SCOPE,
     ExperimentConfig,
     build_coupling_matrix,
     coupling_ratio,
@@ -55,6 +57,21 @@ class TestIndividualityDynamics(unittest.TestCase):
         self.assertLessEqual(results["baseline_transition_lambda"], config.lambda_max)
         self.assertIn("closure_score", results["baseline_summary"][0]["mean"])
         self.assertIn("rogue_closure_score", results["rogue_summary"][0]["mean"])
+        self.assertEqual(results["interpretation"]["guardrail"], INTERPRETATION_GUARDRAIL)
+        self.assertEqual(results["interpretation"]["scope"], INTERPRETATION_SCOPE)
+
+    def test_guardrail_rejects_clinical_overclaim(self):
+        text = INTERPRETATION_GUARDRAIL.lower()
+        self.assertIn("computational", text)
+        self.assertIn("synthetic", text)
+        self.assertIn("consciousness", text)
+        self.assertIn("resurrection", text)
+        self.assertIn("age reversal", text)
+        self.assertIn("mind uploading", text)
+        self.assertIn("no patients", text)
+        self.assertIn("clinical trials", text)
+        self.assertIn("synthetic", INTERPRETATION_SCOPE.lower())
+        self.assertNotIn("proves consciousness", text)
 
 
 if __name__ == "__main__":
