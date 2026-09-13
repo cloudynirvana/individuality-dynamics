@@ -4,7 +4,7 @@ For GPT/Codex continuation. This document preserves the conceptual frame, the em
 
 ## Executive Summary
 
-This work explores a formal bridge between developmental individuality, disease, aging, cancer, and speculative substrate continuity. The strongest surviving idea is not that consciousness has been solved, nor that mind uploading is currently feasible. The strongest idea is narrower and buildable:
+This work explores a formal bridge between developmental individuality, disease, aging, cancer, and speculative substrate continuity. Those disease and aging terms are computational / synthetic dynamical analogies, not patient or clinical-trial claims. The strongest surviving idea is not that consciousness has been solved, nor that mind uploading is currently feasible. The strongest idea is narrower and buildable:
 
 ```text
 An individual is a self-maintaining causal closure process:
@@ -44,7 +44,7 @@ Empirically grounded:
 - Gastrulation and primitive streak formation around day 14 mark irreversible developmental commitment and the conventional twinning boundary.
 - Thalamocortical connectivity around 24 to 28 gestational weeks provides a plausible biological substrate for measurable neural integration.
 - Neural correlates of consciousness remain an active empirical research program, with strong attention on posterior cortical dynamics, recurrent thalamocortical loops, and perturbational response complexity.
-- Perturbational Complexity Index is a clinically useful operational proxy for consciousness level in disorders of consciousness.
+- Perturbational Complexity Index is a published operational proxy for consciousness level in disorders of consciousness. This repository implements only a computational PCI-like metric on synthetic oscillators, not a patient assay.
 - Free Energy Principle and Markov blankets provide a rigorous mathematical language for identity-maintaining systems.
 - Integrated Information Theory remains controversial, but its concern with irreducible causal structure is mathematically useful.
 - Autopoiesis gives a strong conceptual definition of individuality: a living system produces and maintains its own boundary and components.
@@ -55,8 +55,8 @@ Speculative scaffolding:
 - "Consciousness engineering" is not an established scientific field.
 - A cross-scale coupling tensor for fetal/developmental consciousness is a theoretical extension, not a validated measurement system.
 - A criterion such as `||C_fetus|| > ||C_fetal-maternal||` is a proposed operational construct, not settled developmental neuroscience.
-- Mind uploading as medical continuity is philosophically legitimate but scientifically unsolved. The continuity problem remains open.
-- Mathematical models here should be treated as hypothesis generators, not clinical claims.
+- Mind uploading as continuity of a person is philosophically legitimate but scientifically unsolved. The continuity problem remains open.
+- Mathematical models here should be treated as computational / synthetic hypothesis generators, not clinical claims, patient studies, or trial protocols.
 
 ## Core Theoretical Frame
 
@@ -135,7 +135,7 @@ Cancer extension:
 
 The rogue cluster receives elevated internal coupling and reduced host coupling. In the conceptual interpretation, this models an unauthorized second closure event inside a larger organism-level system.
 
-This is not a cancer simulator. It is a topology/dynamics analogy for rogue individuality.
+This is not a cancer simulator, oncology toolkit, or clinical model. It is a computational / synthetic topology/dynamics analogy for rogue individuality.
 
 ## Implemented Files
 
@@ -207,7 +207,7 @@ A meaningful rogue-cluster result looks like:
 - Rogue-host mutual information drops or diverges from host-system behavior.
 - The rogue transition can occur even while the host remains globally organized.
 
-Biological analogy:
+Computational / synthetic biological analogy (not a patient or clinical model):
 
 ```text
 healthy organismal identity = nested closure coordinated across scales
@@ -216,6 +216,8 @@ neurodegeneration/aging = erosion of closure, integration, repair, and adaptive 
 ```
 
 ## Relation To Age Reversal
+
+This section is a computational / synthetic modeling analogy. It is not a clinical protocol, trial design, or age-reversal treatment claim.
 
 The useful connection to age reversal is not immortality-as-slogan. It is maintaining or restoring high-dimensional adaptive closure without losing identity.
 
@@ -306,7 +308,7 @@ Priority 4: Connect to Project Confluence.
 
 - Map closure score to the existing Phi-vector/coupling tensor framework.
 - Treat cancer as rogue diagonal dominance in a nested block coupling tensor.
-- Use EKF reconstruction to estimate hidden closure states from observable biomarkers.
+- Use EKF reconstruction to estimate hidden closure states from synthetic observables (simulated time series, not patient biomarkers).
 
 Priority 5: Refine perturbational complexity.
 
@@ -316,7 +318,7 @@ Priority 5: Refine perturbational complexity.
 
 ## Guardrails For Next Agent
 
-Do not overclaim. The project is meaningful because it creates measurable hypotheses around individuality and disease dynamics, not because it proves resurrection, immortality, or uploading.
+Do not overclaim. The project is meaningful because it creates measurable hypotheses around individuality and synthetic disease-analogue dynamics, not because it proves resurrection, immortality, or uploading. Do not medicalize this into an oncology or MBBS toolkit.
 
 Use language like:
 

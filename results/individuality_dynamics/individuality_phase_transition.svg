@@ -22,7 +22,7 @@
 <line x1="918" y1="138" x2="942" y2="138" stroke="#15803d" stroke-width="3" />
 <text x="950" y="142" font-size="12" font-family="Consolas" fill="#1d252c">Response spread</text>
 <rect x="40" y="386" width="500.0" height="250.0" fill="#fbfaf6" stroke="#1d252c" stroke-width="1" />
-<text x="54" y="410" font-size="17" font-family="Georgia" fill="#1d252c">Cancer Analogue: Rogue Closure</text>
+<text x="54" y="410" font-size="17" font-family="Georgia" fill="#1d252c">Synthetic Cancer Analogue: Rogue Closure</text>
 <text x="52" y="626.0" font-size="11" font-family="Consolas" fill="#52616b">lambda: 0.10 to 10.00</text>
 <polyline points="40.00,636.00 40.00,386.00" fill="none" stroke="#111111" stroke-width="1.4" />
 <polyline points="40.00,530.03 58.52,542.96 77.04,537.21 95.56,542.11 114.07,540.41 132.59,545.22 151.11,516.32 169.63,508.37 188.15,526.15 206.67,532.75 225.19,533.51 243.70,532.26 262.22,545.37 280.74,565.62 299.26,559.42 317.78,553.87 336.30,549.43 354.81,563.86 373.33,562.02 391.85,570.70 410.37,570.64 428.89,575.25 447.41,575.32 465.93,583.13 484.44,593.50 502.96,596.69 521.48,600.61 540.00,618.76" fill="none" stroke="#dc2626" stroke-width="2.0" />

@@ -8,7 +8,7 @@ internal dynamics become more self-maintaining than externally entrained
 while preserving nontrivial perturbational complexity.
 ```
 
-The model is a research scaffold, not a proof of consciousness, resurrection, clinical age reversal, or mind uploading. Its value is that it turns a large philosophical claim into measurable curves.
+The model is a computational / synthetic research scaffold, not a proof of consciousness, resurrection, clinical age reversal, or mind uploading. Disease, aging, and cancer language here is dynamical analogy only. There are no patients, clinical trials, diagnostics, or medical advice. Its value is that it turns a large philosophical claim into measurable curves.
 
 Citation and attribution: this repository is MIT-licensed for open review and collaboration. If you use the code, theory, figures, or documentation, please cite the repository and credit Kelechi Ogbonna / cloudynirvana.
 
@@ -23,7 +23,7 @@ Expert review invited: neuroscience, dynamical systems, complexity science, cons
 - Internal-external mutual information.
 - Kuramoto order and metastability.
 - PCI-like perturbational response complexity.
-- A rogue cancer-analogue subcluster that can form unauthorized nested closure.
+- A rogue computational / synthetic cancer-analogue subcluster that can form unauthorized nested closure.
 - JSON and SVG outputs for review.
 
 ## Run
@@ -78,17 +78,19 @@ The score intentionally penalizes both external entrainment and overly rigid syn
 
 ## Cancer Analogue
 
-The rogue cluster is a small internal subsystem with elevated self-coupling and reduced host coupling. It models cancer only as an abstract dynamical analogy:
+The rogue cluster is a small internal subsystem with elevated self-coupling and reduced host coupling. It models cancer only as a computational / synthetic dynamical analogy:
 
 ```text
 cancer-like pathology = local closure becoming autonomous against the host attractor
 ```
 
-This is not a biological tumor simulator.
+This is not a biological tumor simulator, oncology toolkit, or clinical model.
 
 ## Guardrail
 
-Use this repository as a hypothesis generator:
+This repository stays a causal-closure / oscillator / complexity research scaffold. It is not proof of consciousness, resurrection, clinical age reversal, or mind uploading. It is not a patient study, clinical trial, diagnostic, or treatment system.
+
+Use it as a hypothesis generator:
 
 ```text
 bold model, narrow claim, measurable output, honest uncertainty

@@ -2,7 +2,8 @@
   "schema": "individuality-dynamics/v1",
   "interpretation": {
     "central_claim": "Operational individuality is modeled as rising causal closure: internal complexity and perturbational response richness exceed external entrainment.",
-    "guardrail": "This is a computational hypothesis generator, not proof of consciousness, clinical age reversal, resurrection, or mind uploading.",
+    "guardrail": "This is a computational / synthetic hypothesis generator, not proof of consciousness, clinical age reversal, resurrection, or mind uploading. It contains no patients, clinical trials, diagnostics, or medical advice.",
+    "scope": "Coupled-oscillator causal-closure scaffold; cancer and aging language is synthetic dynamical analogy only, not an oncology or clinical toolkit.",
     "lambda_definition": "lambda = W_internal / W_external",
     "transition_rule": "lambda* is estimated at the steepest positive gradient of the mean closure score over log(lambda)."
   },
